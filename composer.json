@@ -17,10 +17,10 @@
     "doctrine/data-fixtures": "^1.1",
     "phpunit/phpunit": "^5.7|^6|^7",
     "swiftmailer/swiftmailer": "^5.0",
-    "symfony/dependency-injection": "^3.0",
-    "symfony/http-kernel": "^3.0",
-    "symfony/property-access": "^3.0",
-    "symfony/security": "^3.0"
+    "symfony/dependency-injection": "^4",
+    "symfony/http-kernel": "^4",
+    "symfony/property-access": "^4",
+    "symfony/security": "^4"
   },
   "autoload": {
     "psr-4": {
